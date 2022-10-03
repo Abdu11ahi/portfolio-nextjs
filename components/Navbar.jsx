@@ -61,7 +61,7 @@ const Navbar = () => {
               src={NavLogo}
               alt='/'
               width='125'
-              height='50'
+              height='70'
               className='cursor-pointer'
             />
           </a>
