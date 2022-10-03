@@ -17,11 +17,11 @@ const Main = () => {
           </h1>
           <h1 className='py-2 text-gray-700'>A Full Stack Software Developer</h1>
           <p className='py-4 text-gray-600 sm:max-w-[70%] m-auto'>
-          I'm currently looking for new opportunities after graduating from the School of Code! 
+          I'm currently looking for new opportunities in Tech! 
           </p>
           <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
             <a
-              href='https://www.linkedin.com/in/clint-briley-50056920a/'
+              href='https://www.linkedin.com/in/abdullahi-mohamoud99'
               target='_blank'
               rel='noreferrer'
             >
@@ -30,7 +30,7 @@ const Main = () => {
               </div>
             </a>
             <a
-              href='https://github.com/fireclint'
+              href='https://github.com/abdu11ahi'
               target='_blank'
               rel='noreferrer'
             >

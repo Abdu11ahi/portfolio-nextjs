@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import netflixImg from '../public/assets/projects/netflix.jpg';
+import MemeGenerator from '../public/assets/projects/MemeGenerator.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
 import Link from 'next/link';
 
@@ -13,12 +14,12 @@ const netflix = () => {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={netflixImg}
+          src={MemeGenerator}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2'>
-          <h2 className='py-2'>Netflix App</h2>
-          <h3>React JS / Tailwind / Firebase</h3>
+          <h2 className='py-2'>Meme Generator</h2>
+          <h3>React JS / CSS</h3>
         </div>
       </div>
 
