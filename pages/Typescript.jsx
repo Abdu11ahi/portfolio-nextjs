@@ -28,17 +28,10 @@ const twitch = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            -
+            On the bootcamp we only spent 3 days on Typescript towards the end. I did not feel like I fully grasped the concepts that were taught (still learning). After the bootcamp ended I wanted to dedicate some time learning a little bit more as I found it really challenging and was aware that it was extremely popular among developers. I did a basic todo list in Typescript to get some basic knowledge down and continue to learn and read as I go along. Much more to do!
           </p>
           <a
-            href='https://twitch-nextjs-tailwind.vercel.app/'
-            target='_blank'
-            rel='noreferrer'
-          >
-            <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
-          </a>
-          <a
-            href='https://github.com/fireclint/twitch-nextjs-tailwind'
+            href='https://github.com/Abdu11ahi/typescript-todo'
             target='_blank'
             rel='noreferrer'
           >

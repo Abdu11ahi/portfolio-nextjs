@@ -14,7 +14,10 @@ const About = () => {
           <h2 className='py-4'>Who I Am</h2>
           <p className='py-2 text-gray-600'>
           Hello and welcome! My name is Abdullahi and I have recently developed (no pun intended) a passion for developing things. I decided to transition into Tech because developers appeared to have a sense of empowerment driven by their ability to code. And I want to be empowered.
-          After a rocky road of trying to teach myself how to code, I enrolled to the School of Code being selected out of 1800+ candidates. Fast forward to today, and I have worked in agile teams, taken part in pair/team programming and applied computational thinking to code.
+          After a rocky road of trying to teach myself how to code, I enrolled to the School of Code being selected out of 1800+ candidates. 
+          </p>
+          <p className='py-2 text-gray-600'>
+          Fast forward to today, and I have worked in agile teams, taken part in pair/team programming and applied computational thinking to code.
           My main focus currently is to find a suitable role for me, where I can grow and develop my skills. My secondary focus is doing what I can to help tech be more accessible, particularly to those who come from disadvantaged backgrounds.
           </p>
           <p className='py-2 text-gray-600'>
