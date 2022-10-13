@@ -102,22 +102,22 @@ const resume = () => {
           <p className='py-1 italic'>Full stack software engineer</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              -
+              - Worked in different teams every week with new partners to peer program with.
             </li>
             <li>
-              -
+              - Held daily retrospectives and stand ups, allowing our team to work throughout the project iteratively and collectively make decisions every day. This promoted a healthier team dynamic allowing us to complete sprints smoothly.
             </li>
             <li>
-              -
+              - Worked in an Agile team to deliver a useable product in a short time-frame, then presented to 150+ peers.
             </li>
             <li>
-              -
+              - Peer programmed and developed communication skills and managed my team as a scrum master to ensure projects were deployed and ready for presentations.
             </li>
           </ul>
         </div>
 
 
-        {/* Personal Experience */}
+        {/* Personal Experience
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
@@ -134,7 +134,7 @@ const resume = () => {
               -
             </li>
           </ul>
-        </div>
+        </div> */}
 
         {/*  */}
         <h5 className='text-center underline text-[18px] py-4'>
@@ -145,24 +145,21 @@ const resume = () => {
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold'></span>
-            <span className='px-2'>|</span>
+            <span className='px-2'></span>
           </p>
           <p className='py-1 italic'>Small business owner / Customer service representative</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
-              -
+              -Communicated with employees, Amazon and Ebay to maintain highest quality of service.
             </li>
             <li>
-              -
+              -Used Facebook ads to maximise sales and profits. Used Microsoft Excel to manage profits, company dealings and feedback.
             </li>
             <li>
-              -
+              -Hired and trained employees to successfully carry out, refunds, returns and customer service which enabled me to focus on the future of the business, learning how to managhe my time well.
             </li>
             <li>
-              -
-            </li>
-            <li>
-              -
+              -Communicated daily with managers and dealt with difficult calls, allowing me to learn how to adapt rapidly to different situations and provide a good experience to people who were unfortunately diagnosed with Covid.
             </li>
           </ul>
         </div>
