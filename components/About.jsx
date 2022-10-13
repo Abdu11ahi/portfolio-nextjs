@@ -18,7 +18,7 @@ const About = () => {
           My main focus currently is to find a suitable role for me, where I can grow and develop my skills. My secondary focus is doing what I can to help tech be more accessible, particularly to those who come from disadvantaged backgrounds.
           </p>
           <p className='py-2 text-gray-600'>
-            I had my first experience with programming in 2015 when I did a computer science GCSE, I found myself always making excuses to "revise" Python. I simply enjoyed it more than any other subject I was doing. However I somehow convinced myself after school that my talents were needed elsewhere. 7 years later and my life has done a complete 360 and I'm back doing what I love. 
+            I had my first experience with programming in 2015 when I did a computer science GCSE, I found myself always making excuses to &quot;revise&quot; Python. I simply enjoyed it more than any other subject I was doing. However I somehow convinced myself after school that my talents were needed elsewhere. 7 years later and my life has done a complete 360 and I&#39;m back doing what I love. 
           </p>
           <Link href='/#projects'>
             <p className='py-2 text-gray-600 underline cursor-pointer'>

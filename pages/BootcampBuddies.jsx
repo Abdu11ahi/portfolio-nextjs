@@ -28,7 +28,7 @@ const crypto = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-           -
+           This was the first full stack team project that I took part in 9 weeks after starting the course. I was blessed with a great team and it gave me a great chance to put everything I learnt so far into practice, altogether. I was able to work on both the front end the backend and built my confidence with things I was struggling on (CSS!). The project brief was to build a full stack application that would focus on helping fellow bootcampers who were struggling. Our team got together for the first time and had to plan, design and code out our solution in 3 days, then create a presentation and present by the 4th. Our solution was to create an application that showed useful resources and links from each week of the bootcamp up until the current week we were on. It was a high stress environment but looking back, it was one of my favourite week in the bootcamp.
           </p>
           <a
             href='https://github.com/fireclint/crypto-react-firebase'
@@ -42,7 +42,6 @@ const crypto = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <button className='px-8 py-2 mt-4'>Demo</button>
           </a>
 
         </div>
