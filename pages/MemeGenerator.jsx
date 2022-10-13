@@ -28,22 +28,21 @@ const netflix = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-           
+          This was a mini hackathon me and my peer partner completed after 5 days of learning React. We made use of UseEffect to collect relavant data from our chosen API and displayed the information where we wanted to on the page. It gave us a better understanding of props and State and after completing it, we were a lot more comfortable with React as opposed to the vanilla js we learnt in previous weeks. 
           </p>
           <a
-            href='https://github.com/fireclint/netflix-react-tailwind'
+            href='https://github.com/Abdu11ahi/meme-generator-hackathon'
             target='_blank'
             rel='noreferrer'
           >
             <button className='px-8 py-2 mt-4 mr-8'>Code</button>
           </a>
-          <a
-            href='https://fireclint.github.io/netflix-react-tailwind/'
+          {/* <a
+            href='https://github.com/Abdu11ahi/meme-generator-hackathon'
             target='_blank'
             rel='noreferrer'
           >
-            <button className='px-8 py-2 mt-4'>Demo</button>
-          </a>
+          </a> */}
         </div>
         <div className='col-span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl py-4'>
           <div className='p-2'>
